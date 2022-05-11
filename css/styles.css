@@ -87,6 +87,7 @@ a, a:hover {
     justify-content: space-between;
     background-color: var(--white);
     border-radius: 0 0 8px 8px;
+    height: 220px;
 }
 
 .dsmovie-card-description h3 {
@@ -94,7 +95,6 @@ a, a:hover {
     font-weight: 700;
     margin-bottom: 25px;
     text-align: center;
-    height: 220px;
 }
 
 .dsmovie-card-description-bottom {
